@@ -1,1 +1,3 @@
 chest_xray/
+*.jpg
+*.h5

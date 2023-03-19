@@ -1,0 +1,2 @@
+model_checkpoint_path: "wild_cats_classification_model_checkpoint"
+all_model_checkpoint_paths: "wild_cats_classification_model_checkpoint"
