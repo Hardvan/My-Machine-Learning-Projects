@@ -101,5 +101,3 @@ if __name__ == '__main__':
 
     # Display the results
     print(results_df)
-else:
-    print("Model loading failed.")
